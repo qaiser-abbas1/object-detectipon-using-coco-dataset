@@ -1,1 +1,2 @@
-# object-detectipon-using-coco-dataset
+# object-detection-using-coco-dataset
+Object detection is a critical component of computer vision, enabling machines to identify and locate objects within an image or video. This project employs the SSD (Single Shot Detector) MobileNet V3 model, a lightweight and efficient deep learning model, to perform object detection on images and videos. The model is pretrained on the COCO dataset, a comprehensive dataset containing 80 common object categories, making it suitable for real-world applications such as surveillance, traffic monitoring, and smart devices.
